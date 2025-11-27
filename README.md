@@ -24,7 +24,7 @@
 4.  **Generation:** [e.g., GPT-4o generates the marketing strategy.]
 
 **Architecture Diagram:**
-![Architecture](link_to_diagram.png)
+![Architecture Diagram](link_to_diagram.png)
 *(Note: A real architecture diagram increases your Technical Score significantly)*
 
 ## 3. Tech Stack
