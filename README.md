@@ -1,4 +1,4 @@
-# [Project Name]
+# [AI Hackathon Demo]
 
 ![Project Banner](https://workable-application-form.s3.us-east-1.amazonaws.com/advanced/production/67ee681e80c99af9453ef9e1/c83c8c79-10fd-9da0-bae2-daf435c0877c)
 
